@@ -6,6 +6,10 @@
 (https://app.powerbi.com/view?r=eyJrIjoiMmFhMjM2MjQtYTQ2NS00YTc4LWJlMmQtNzkwOTk4NjQxNTYxIiwidCI6ImFhYjE3NDFlLTgwNzktNDE0MS04ZTMzLWUwNmQ0M2EwZjUwOCJ9)
 
 
+# POWERBI DASHBOARD 
+
+![Unknown](https://github.com/gsdanawadakar/Power-BI/assets/98682918/e4a2a31f-3883-4bb7-8db1-9c6ee34e9fd2)
+
 
 
 # Project Title: HR Analytics Dashboard - Predicting Employee Attrition using Power BI And Integrating with Azure Devops
