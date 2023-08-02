@@ -1,4 +1,12 @@
 # Power-BI
+
+PROJECT LINK:-(https://dev.azure.com/ganesh0703/MYPROJECT/_git/MYPROJECT?version=GC259a67eb652e201cdca86c9425ba2eaa6cd04943)
+
+
+POWERBI LINK:-(https://app.powerbi.com/view?r=eyJrIjoiMmFhMjM2MjQtYTQ2NS00YTc4LWJlMmQtNzkwOTk4NjQxNTYxIiwidCI6ImFhYjE3NDFlLTgwNzktNDE0MS04ZTMzLWUwNmQ0M2EwZjUwOCJ9)
+
+
+
 my project on attrition of employees (hr analytics) power bi dashboard
 Title: HR Analytics Dashboard - Predicting Employee Attrition using Power BI
 
@@ -49,11 +57,4 @@ The HR Analytics Dashboard will empower the HR team with a powerful tool to:
 
 By successfully implementing the HR Analytics Dashboard, the organization can proactively manage 
 attrition, improve employee retention rates, and optimize human resource strategies for sustainable growth and success.
-
-PROJECT LINK:-(https://dev.azure.com/ganesh0703/MYPROJECT/_git/MYPROJECT?version=GC259a67eb652e201cdca86c9425ba2eaa6cd04943)
-
-
-POWERBI LINK:-(https://app.powerbi.com/view?r=eyJrIjoiMmFhMjM2MjQtYTQ2NS00YTc4LWJlMmQtNzkwOTk4NjQxNTYxIiwidCI6ImFhYjE3NDFlLTgwNzktNDE0MS04ZTMzLWUwNmQ0M2EwZjUwOCJ9)
-
-
 
