@@ -2,8 +2,14 @@
 
 (https://dev.azure.com/ganesh0703/MYPROJECT/_git/MYPROJECT?version=GC259a67eb652e201cdca86c9425ba2eaa6cd04943)
 
+# AZURE DEVOPS
+
+<img width="1440" alt="Screenshot 2023-08-02 at 1 09 20 PM" src="https://github.com/gsdanawadakar/Power-BI/assets/98682918/25d7bdc8-6d3e-4370-a2c2-587d8f9f857f">
+
+
 # POWERBI DEMO LINK
 (https://app.powerbi.com/view?r=eyJrIjoiMmFhMjM2MjQtYTQ2NS00YTc4LWJlMmQtNzkwOTk4NjQxNTYxIiwidCI6ImFhYjE3NDFlLTgwNzktNDE0MS04ZTMzLWUwNmQ0M2EwZjUwOCJ9)
+
 
 
 # POWERBI DASHBOARD 
