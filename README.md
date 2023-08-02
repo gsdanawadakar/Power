@@ -1,8 +1,8 @@
-# Power-BI
+# PROJECT LINK 
 
 PROJECT LINK:-(https://dev.azure.com/ganesh0703/MYPROJECT/_git/MYPROJECT?version=GC259a67eb652e201cdca86c9425ba2eaa6cd04943)
 
-
+# POWERBI DEMO LINK
 POWERBI LINK:-(https://app.powerbi.com/view?r=eyJrIjoiMmFhMjM2MjQtYTQ2NS00YTc4LWJlMmQtNzkwOTk4NjQxNTYxIiwidCI6ImFhYjE3NDFlLTgwNzktNDE0MS04ZTMzLWUwNmQ0M2EwZjUwOCJ9)
 
 
