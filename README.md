@@ -11,6 +11,7 @@ my project on attrition of employees (hr analytics) power bi dashboard
 Title: HR Analytics Dashboard - Predicting Employee Attrition using Power BI And Integration With Azure Devops
 
 **Problem Statement:**
+
 Employee attrition is a critical concern for organizations, leading to increased recruitment costs, loss of talent, and disruption in workflow. The lack of data-driven insights makes it challenging for HR teams to proactively address attrition risks. The organization needs a solution that leverages HR analytics and predictive modeling to forecast employee attrition and provides an interactive dashboard for visualizing key HR metrics.
 
 **Objectives:**
