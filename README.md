@@ -7,9 +7,8 @@
 
 
 
-**my project on attrition of employees (hr analytics) power bi dashboard**
 
-# Title: HR Analytics Dashboard - Predicting Employee Attrition using Power BI And Integrating with Azure Devops
+# Project Title: HR Analytics Dashboard - Predicting Employee Attrition using Power BI And Integrating with Azure Devops
 
 **Problem Statement:**
 
