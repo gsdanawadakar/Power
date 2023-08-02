@@ -1,6 +1,5 @@
 # PROJECT LINK 
-
-(https://dev.azure.com/ganesh0703/MYPROJECT/_git/MYPROJECT?version=GC259a67eb652e201cdca86c9425ba2eaa6cd04943)
+(https://dev.azure.com/ganesh0703/_git/MYPROJECT)
 
 # AZURE DEVOPS
 
